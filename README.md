@@ -2,7 +2,7 @@
 
 This interactive web application helps you understand CSS Flexbox layout by providing real-time visual demonstrations of various Flexbox properties.
 
-![Flexbox Demo Preview](screenshots/flexbox-demo-preview.png)
+![Flexbox Demo Preview](screenshots/flexbox-preview.png)
 
 ## ✨ Features
 
@@ -39,8 +39,6 @@ Modify individual item properties and see how they affect a single item:
 - **Live Code Display**: View the exact CSS code that creates the effects you see
 - **Property Descriptions**: Clear explanations for what each property value does
 - **Interactive Elements**: Focus on select fields to see related descriptions
-
-![Educational Features](screenshots/educational-features.png)
 
 ## 🚀 Getting Started
 
